@@ -2,7 +2,7 @@
 
 隐私政策网址和技术支持页,用户协议页面
 
-This Privacy Policy applies to the mobile application Endless Sword Clicker (formerly known as Endless Sword Cultivator) (the “App”).
+This page applies to the mobile application Endless Sword Clicker (formerly known as Endless Sword Cultivator) (the “App”).
 
 
 1. Information Automatically Collected / 自动收集的信息
